@@ -5,7 +5,13 @@
 aaaaaaaaaaaaaaaaaaaaaa
 bbbbbbbbbbbbbbbbbbbbbbb
 ccccccccccccccccccccc
+<<<<<<< HEAD
 000000000000000000000000000
 8888888888888888888888
 88888888888888888888888
 55555555555555555555555555555
+=======
+add  some content to  hello.txt
+111111111111111111111111
+wwwwwwwwwwwwwwwwwwwwwwww
+>>>>>>> dd92bd7d950e8aeb6f8fc509740bacedbf9b0bcc
